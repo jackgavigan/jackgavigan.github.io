@@ -1,6 +1,7 @@
 
 
 ### Zero-knowledge Proofs
+- [Zexe: Enabling Decentralized Private Computation](https://eprint.iacr.org/2018/962.pdf)
 - Go to [zkp.science](https://zkp.science) for all your zero-knowledge requirements!
 
 ### Smart Contracts
